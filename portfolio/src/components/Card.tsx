@@ -12,7 +12,7 @@ ThoughtHaven is a blogging platform that allows users to create, share, and mana
 </div>
 <div className="flex">
    <p className="text-md font-semibold ml-6 mt-4 md:text-lg md:mt-4 text-highlight">Technologies used:</p>
-   <p className="text-md font-semibold mt-4 ml-3 md:text-lg md:mt-4">Prisma, Cloudflare, Hono, Cloudinary, React, Recoil</p> 
+   <p className="text-md font-semibold mt-4 ml-3 md:text-lg md:mt-4">Prisma, Cloudflare workers, Hono, React, Recoil</p> 
 </div>
 <div className="mx-6 my-3 flex">
     <div className="h-8 w-8" onClick={function(){
@@ -51,7 +51,7 @@ This application replicates the functionality of Google Pay, enabling seamless m
 </div>
 <div className="flex">
    <p className="text-md font-semibold ml-6 mt-4 md:text-lg md:mt-4 text-highlight">Technologies used:</p>
-   <p className="text-md font-semibold mt-4 ml-3 md:text-lg md:mt-4">MongoDB, NodeJs, React, Toaster, TailwindCSS</p> 
+   <p className="text-md font-semibold mt-4 ml-3 md:text-lg md:mt-4">MongoDB, NodeJs, React, Toaster, Tailwind</p> 
 </div>
 <div className="mx-6 my-3 flex">
     <div className="h-8 w-8" onClick={function(){
