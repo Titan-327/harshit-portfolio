@@ -87,7 +87,7 @@ export function Card2(){
 Task Manager
 </div>
 <div className="text-md font-semibold mx-6 mt-2 md:text-lg md:mt-2">
-   {`TaskMaster is a powerful and intuitive task management app designed to help you stay organized, focused, and efficient. Whether you're managing personal projects or working with a team, TaskMaster allows you to create, prioritize, and track tasks effortlessly.`}
+   {`TaskManager is a powerful and intuitive task management app designed to help you stay organized, focused, and efficient. Whether you're managing personal projects or working with a team, TaskMaster allows you to create, prioritize, and track tasks effortlessly.`}
 </div>
 <div className="flex">
    <p className="text-md font-semibold ml-6 mt-4 md:text-lg md:mt-4 text-highlight">Technologies used:</p>
