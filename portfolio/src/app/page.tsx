@@ -54,7 +54,7 @@ export default function Home() {
                     rounded text-highlight font-bold hover:bg-highlight 
                     hover:text-light text-center`}
                     >
-                        Vie Resume
+                        View Resume
                     </button>
                 </motion.div>
             </div>
