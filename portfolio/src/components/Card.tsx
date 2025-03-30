@@ -51,11 +51,11 @@ This application replicates the functionality of Google Pay, enabling seamless m
 </div>
 <div className="flex">
    <p className="text-md font-semibold ml-6 mt-4 md:text-lg md:mt-4 text-highlight">Technologies used:</p>
-   <p className="text-md font-semibold mt-4 ml-3 md:text-lg md:mt-4">MongoDB, NodeJs, React, Toaster, Tailwind</p> 
+   <p className="text-md font-semibold mt-4 ml-3 md:text-lg md:mt-4">Prisma, NextJs, React, NextAuth</p> 
 </div>
 <div className="mx-6 my-3 flex">
     <div className="h-8 w-8" onClick={function(){
-         window.open("https://github.com/Titan-327/google_pay_clone_backend", "_blank")
+         window.open("https://github.com/Titan-327/QuickPay", "_blank")
     }}>
     <svg xmlns="./images/github.svg" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" clip-rule="evenodd" viewBox="0 0 24 24" id="github" style={{ cursor: 'pointer' }}>
   <g transform="translate(-40 -40)">
@@ -65,7 +65,7 @@ This application replicates the functionality of Google Pay, enabling seamless m
 </svg>
 </div>
 <div className="h-8 w-8 mx-3 mb-4" onClick={function(){
-         window.open("https://github.com/Titan-327/ThoughtHaven_", "_blank")
+         window.open("https://quick-pay-ten.vercel.app/", "_blank")
     }}>
 <svg xmlns="./images/link.svg" viewBox="0 0 24 24" id="link"  style={{ cursor: 'pointer' }}>
   <g>
