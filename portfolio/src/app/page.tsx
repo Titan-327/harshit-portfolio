@@ -5,7 +5,7 @@ import Link from "next/link";
 
 export default function Home() {
     function handleDownload() {
-        window.open("https://drive.google.com/file/d/10gvSh8_OjqExVUCcBdfm6-kMrQxk8xjT/view?usp=sharing", "_blank");
+        window.open("https://drive.google.com/file/d/152j50E0Nj-zmZnqDhl3osdrqfUCBXT67/view", "_blank");
     }
 
     return (
