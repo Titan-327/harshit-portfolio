@@ -84,18 +84,18 @@ export function Card2(){
     const router=useRouter()
     return <div className="bg-gray-800 m-4">
 <div className="text-2xl font-semibold p-4 md:text-2xl md:pt-4">
-Task Manager
+Prep AI
 </div>
 <div className="text-md font-semibold mx-6 mt-2 md:text-lg md:mt-2">
-   {`TaskManager is a powerful and intuitive task management app designed to help you stay organized, focused, and efficient. Whether you're managing personal projects or working with a team, TaskMaster allows you to create, prioritize, and track tasks effortlessly.`}
+   {`Prep AI helps you master interviews with AI-powered voice agents and instant feedback. Sign in, practice real-time interviews, and get smart insights to boost your performance.`}
 </div>
 <div className="flex">
    <p className="text-md font-semibold ml-6 mt-4 md:text-lg md:mt-4 text-highlight">Technologies used:</p>
-   <p className="text-md font-semibold mt-4 ml-3 md:text-lg md:mt-4">MongoDB, Bcrypt, JWT, Express, React, Redux</p> 
+   <p className="text-md font-semibold mt-4 ml-3 md:text-lg md:mt-4">Nextjs, Firebase, VapiSDK, Shadcn</p> 
 </div>
 <div className="mx-6 my-3 flex">
     <div className="h-8 w-8" onClick={function(){
-         window.open("https://github.com/Titan-327/todo-backend-mern", "_blank")
+         window.open("https://github.com/Titan-327/PrepAI", "_blank")
     }}>
     <svg xmlns="./images/github.svg" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" clip-rule="evenodd" viewBox="0 0 24 24" id="github" style={{ cursor: 'pointer' }}>
   <g transform="translate(-40 -40)">
@@ -105,7 +105,7 @@ Task Manager
 </svg>
 </div>
 <div className="h-8 w-8 mx-3 mb-4" onClick={function(){
-         window.open("https://github.com/Titan-327/ThoughtHaven_", "_blank")
+         window.open("https://prep-ai-ten.vercel.app/", "_blank")
     }}>
 <svg xmlns="./images/link.svg" viewBox="0 0 24 24" id="link"  style={{ cursor: 'pointer' }}>
   <g>
