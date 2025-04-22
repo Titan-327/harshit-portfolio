@@ -91,7 +91,7 @@ Prep AI
 </div>
 <div className="flex">
    <p className="text-md font-semibold ml-6 mt-4 md:text-lg md:mt-4 text-highlight">Technologies used:</p>
-   <p className="text-md font-semibold mt-4 ml-3 md:text-lg md:mt-4">Nextjs, Firebase, VapiSDK, Shadcn</p> 
+   <p className="text-md font-semibold mt-4 ml-3 md:text-lg md:mt-4">Nextjs, Firebase, VapiSDK, Shadcn, RazorPay</p> 
 </div>
 <div className="mx-6 my-3 flex">
     <div className="h-8 w-8" onClick={function(){
