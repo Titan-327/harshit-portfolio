@@ -107,14 +107,18 @@ function AboutPage() {
         transition={{ delay: 2.7 }}
         className=""
     >
-        {/* <Image
-            src="/images/about.jpg"
+        <div className="my-6 flex justify-center">
+        <Image
+            src="/images/poperpop.jpg"
             alt=""
             width="480"
             height="640"
-        /> */}
+        />
+        </div>
+        <div className="md:my-14">
          <SkillSection />
-    </motion.div>
+         </div>
+          </motion.div>
     </div>
 </div>
 }
