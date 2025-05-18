@@ -107,7 +107,7 @@ function AboutPage() {
         transition={{ delay: 2.7 }}
         className=""
     >
-        <div className="my-6 flex justify-center">
+        <div className="my-10 flex justify-center">
         <Image
             src="/images/poperpop.jpg"
             alt=""
@@ -115,7 +115,7 @@ function AboutPage() {
             height="640"
         />
         </div>
-        <div className="md:my-14">
+        <div className="md:my-10">
          <SkillSection />
          </div>
           </motion.div>
